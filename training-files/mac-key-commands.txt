@@ -1,0 +1,134 @@
+APEX MAC COMMANDS
+
+
+Mac menus and keyboards often use symbols for certain keys, including modifier keys:
+
+COMMAND (or Cmd) - (⌘)
+SHIFT  - (⇧)
+OPTION (or Alt) - (⌥)
+CONTROL (or Ctrl) - (⌃)
+CAPS LOCK - (⇪)
+Function Key - (fn)
+
+
+
+
+Cut, Copy, Paste, and Other Common Shortcuts
+
+(⌘)Command + X: Cut the selected item and copy it to the Clipboard.
+
+(⌘)Command + C: Copy the selected item to the Clipboard. This also works for files in the Finder.
+
+(⌘)Command + V: Paste the contents of the Clipboard into the current document or app. This also works for files in the Finder.
+
+(⇧)Shift + (⌥)Option + (⌘)Command + V: When you're pasting text into a document, the pasted text when using (⌘)Command + V will use whatever formatting the original source used; however, if you use this shortcut, the pasted text will take on the formatting of the document you're pasting into instead.
+
+(⌘)Command + Z: Undo the previous command. In some apps, you can undo and redo multiple commands.
+
+(⇧)Shift + (⌘)Command + Z: Redo, reversing the undo command.
+
+(⌘)Command + A: Select All items.
+
+(⌘)Command + (⇧)Shift + A: Will deselect all selected items.
+
+(⌘)Command + F: Find items in a document or open a Find window.
+
+(⌘)Command + G: Find Again: Find the next occurrence of the item previously found. To find the previous occurrence, press (⇧)Shift + (⌘)Command + G.
+
+(⌘)Command + H: Hide the windows of the front app. To view the front app but hide all other apps, press (⌥)Option + (⌘)Command + I: Shows info for selected item or items.
+
+(⌘)Command + M: Minimize the front window to the Dock. To minimize all windows of the front app, press (⌥)Option + (⌘)Command + M.
+
+Command + N: Opens a new window or new Finder window.
+
+(⌘)Command + O: Open the selected item, or open a dialog to select a file to open.
+
+(⌘)Command + P: Print the current document.
+
+(⌘)Command + S: Save the current document.
+
+Backspace: Delete previous letter.
+
+(fn)Function + Backspace: Delete next letter.
+
+(⇧)Shift + (⌘)Command + S: Use this command to quickly bring up the Save As dialog or duplicate the current document you're editing in a document-based application on your Mac.
+
+(⌘)Command + T: Open a new tab.
+
+(⌘)Command + (⌃)Control + F: this keyboard shortcut will open the currently visible window in Full Screen mode--if supported by the app. Exit Full Screen mode by using the same command again. 
+
+(⌘)Command + W: Close the active window. To close all windows of the app, press (⌥)Option + (⌘)Command + W.  
+
+(⌥)Option + (⌘)Command + Esc: Force quit an app.
+
+(⌘)Command + L: The fastest way to make a search or navigate to a Website in Safari, (⌘)Command + L instantly selects the address bar: start typing your query, and select the appropriate choice using the up/down arrows on the keyboard.
+
+(⌘)Command + Space bar: Show or hide the Spotlight search field. To perform a Spotlight search from a Finder window, press (⌘)Command + (⌥)Option + Space bar. (If you use multiple input sources to type in different languages, these shortcuts change input sources instead of showing Spotlight.
+
+(⌃)Control + (⌘)Command + Space bar: Show the Character Viewer, from which you can choose emoji and other symbols.
+
+(⌃)Control + (⌘)Command + F: Use the app in full screen, if supported by the app.
+
+Space bar: Use Quick Look to preview the selected item. You can use (⌘)Command + Y either. 
+
+(⌘)Command + Tab: Switch to the next most recently used app among your open apps. 
+
+(⇧)Shift + (⌘)Command + 5: In macOS Mojave or later, take a screenshot or make a screen recording with selectable options. Or use (⇧)Shift + (⌘)Command + 3 to take immediately an entire screenshot or (⇧)Shift + (⌘)Command + 4 to capture immediately a portion of the screen.
+
+(⇧)Shift + (⌘)Command + N: Create a new folder in the Finder.
+
+(⌘)Command + (⇧)Shift + A: Select this combination when in Finder/Desktop view to get to your Applications folder, or replace the A with U to open your Utilities folder in a new Finder window (or D for Desktop, H for Home or I to access iCloud Drive).
+
+(⌘)Command + (⇧)Shift + T: This web browser tip can sometimes be a lifesaver. (⌘)Command + (⇧)Shift + T will open your last closed tab, which helps a lot if you are researching something and close a window without saving the URL.
+
+(⌘)Command + (,)Comma: Open preferences for the front app.
+
+(fn) Function key + (←)left or (→)right arrows: Jump directly to the top or bottom of a web page using the Function key and the right (to the bottom of the page) or left (to the top of the page) arrows on the keyboard. You can achieve a similar result using (⌘)Command + Up or (⌘)Command + Down. A third way is to use (⌃)Control + Tab and (⌃)Control+ (⇧)Shift + Tab.
+
+(⌘)Command + (←)left or (→)right arrows: Hit Command and the left arrow to go back a page in the browser window. Hit Command right to go forward again.
+
+(⌘)Command + (⇧)Shift + ]  or (⌘)Command + (⇧)Shift + [ : Navigate between multiple tabs
+
+(⌥)Option + (⇧)Shift + Volume: Press (⌥)Option + (⇧)Shift and volume up/down to increase or decrease the volume on your Mac in smaller increments. You can also use (⌥)Option + (⇧)Shift and Brightness to change display brightness in small amounts.
+
+(Fn)Function key + (fn)Function key: Press the function (fn) key twice to launch Dictation on your Mac, start speaking, and press (fn) Function key once you’ve finished.
+
+(⌘)Command + ( ` )Backtick: Use this combination to move between open windows in your currently active app.
+
+(⌥)Option + (⌘)Command + (esc)Esc: In the event an application freezes or hangs you may want to Force Quit the rogue app. It’s not always a magic bullet, but sometimes an application restart is all you need to get your system moving again.
+
+(⌥)Option + Double-click: This shortcut opens a folder in a separate window, while simultaneously closing the current window.
+
+(⌃)Control + left/right arrow: Navigate between application windows.
+
+(⌘)Command + (⌃)Control + Q: Walking away from your Mac? Tap this shortcut to immediately lock your machine.
+
+(esc)Escape: Use it to cancel a previous command. Never underestimate the power of the Esc key to get you out of trouble. For example, you're taking a screen shot and managed to select part of your screen for that shot, only to discover it's the wrong part – tap Esc and you won't need to worry about it. That's basically the principle of Esc.
+
+
+
+
+Useful Developer Shortcuts
+
+(⌘)Command + D: Instead of going through and changing each instance where I called the variable, I select one instance of it and use (⌘)Command + D to select each time that variable appears one at a time.
+
+(⌘)Command + (⇧)Shift + L: If you feel confident and comfortable to select all instances that match the phrase you've selected at one time, then give this shortcut a try.
+
+(⌘)Command + (⇧)Shift + (←)Left or (→)Right arrow: Select all code from current position to beginning or ending of line.
+
+(⌥)Option + (←)left or (→)right arrow: If you want to move around within a line without jumping straight to the beginning or end of the line this shortcut allows you to move one word at a time.
+
+(⌘)Command + ( / )Forward slash: Quickly comment one or more lines of code by either clicking on the specific line or highlighting multiple lines and pressing command and the forward slash. To undo the comments, you can highlight the section and press (⌘)Command + ( / )Forward slash again.
+While this shortcut is not universal, it does work in many text editors with a variety of languages. But, keep in mind that it does have a different purpose in word processors — pulling up a help menu.
+
+
+
+
+OSX Shortcuts
+
+(⌃)Control + ← : Move one space to the left
+(⌃)Control + → :Move one space to the right
+(⌃)Control + ↑ : Enter mission control
+(⌃)Control + ↓ : Leave mission control
+(⌘)Command + Tab: Switch applications
+(⌃)Control + (fn)Function + F3: Summon the dock (arrow keys are pretty intuitive from there)
