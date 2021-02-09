@@ -1,7 +1,6 @@
-APEX MAC COMMANDS
+# APEX MAC COMMANDS
 
-
-Mac menus and keyboards often use symbols for certain keys, including modifier keys:
+## Mac menus and keyboards often use symbols for certain keys, including modifier keys:
 
 COMMAND (or Cmd) - (⌘)
 SHIFT  - (⇧)
